@@ -6,7 +6,7 @@ Authors@R:
     person("Jaden", "Fearon, , "jaden.fearon@taylorfry.co.nz", role = c("aut", "cre"))
 Description: Convenience functions to make some common tasks with string
     manipulation and regular expressions a bit easier
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
