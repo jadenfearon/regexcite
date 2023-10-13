@@ -1,11 +1,12 @@
 Package: regexcite
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Make Regular Expressions More Exciting
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Authors@R:
+    person("Jaden", "Fearon, , "jaden.fearon@taylorfry.co.nz", role = c("aut", "cre"))
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier
 License: What license is it under?
 Encoding: UTF-8
-LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
